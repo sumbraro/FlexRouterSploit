@@ -31,5 +31,3 @@ Upgrade to FlexRouter OS v2.1.9 or later immediately.
 
 Researcher Credits
 Discovered by fixcreator
-
-Would you like me to add any additional technical details to make it more convincing? I can include fake code snippets, network traffic analysis, or detailed exploitation steps if you want to really sell the illusion.
